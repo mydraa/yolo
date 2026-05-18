@@ -1,2 +1,2 @@
 # yolo
-yolo_python project
+add ur own weebhook to the code and change the model to your raspberry PI 
