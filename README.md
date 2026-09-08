@@ -38,4 +38,4 @@ WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL"
 3. Run the detection script:
 ```bash
 python yolo_project.py
-```
+``` 
