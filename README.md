@@ -39,3 +39,4 @@ WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL"
 ```bash
 python yolo_project.py
 ``` 
+ 
